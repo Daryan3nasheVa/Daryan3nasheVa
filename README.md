@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Daryan3nasheVa/Daryan3nasheVa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Привет!
+## ✨Обо мне
+Я Ненашева Дарья, мне 18 лет, я студентка ИГУ на направлении "Прикладная информатика разработка ПО"
+## 🎭О проекте
+Это мой небольшой репозиторий для экспериментов, учебных проектов и изучения программирования. Здесь я буду хранить свои первые работы, код, заметки и идеи.
+## 🛠Технологии, с которыми работаю
+![1](https://img.icons8.ru/?size=100&id=LoL4bFzqmAa0&format=png&color=000000)
+![2](https://img.icons8.ru/?size=100&id=13441&format=png&color=000000)
+![3](https://img.icons8.ru/?size=100&id=40669&format=png&color=000000)
+![4](https://img.icons8.ru/?size=100&id=tDgTMcLwgORi&format=png&color=000000)
